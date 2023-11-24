@@ -19,6 +19,11 @@ function App() {
           Apt: 2009
         </p>
         <p>
+          <a href="">
+            Tempurpedic Mattress + Bed Frame - $300
+          </a>
+        </p>
+        <p>
           <img src={"test.png"} />
           <a href="https://www.amazon.com/gp/product/B001KW0D0Y/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1"><br></br>
             Dresser - $120
