@@ -1,6 +1,6 @@
 {
   "name": "apt-website",
-  "homepage": "https://potatosol.github.io/",
+  "homepage": "https://potatosol.github.io/apartmentwebsite/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
