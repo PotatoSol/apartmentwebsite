@@ -23,8 +23,6 @@ import ultrawide from './ultrawide.jpg';
 import boxes from './boxes.jpg';
 import cactus from './cactus.jpg';
 
-
-
 export {
   airpurifier, 
   bed1,
