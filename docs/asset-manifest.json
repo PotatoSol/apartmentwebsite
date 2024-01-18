@@ -1,17 +1,39 @@
 {
   "files": {
     "main.css": "/apartmentwebsite/static/css/main.6c761ebb.css",
-    "main.js": "/apartmentwebsite/static/js/main.74f623f4.js",
+    "main.js": "/apartmentwebsite/static/js/main.871998b6.js",
     "static/js/787.908fed6a.chunk.js": "/apartmentwebsite/static/js/787.908fed6a.chunk.js",
-    "static/media/test.png": "/apartmentwebsite/static/media/test.96c8a1ef39dcbebc99fb.png",
-    "static/media/chair.jpg": "/apartmentwebsite/static/media/chair.8641480909a71597802c.jpg",
+    "static/media/smalldesk.jpg": "/apartmentwebsite/static/media/smalldesk.fba823ba16b56233ab4b.jpg",
+    "static/media/saddle.jpg": "/apartmentwebsite/static/media/saddle.d51299e99560938cc832.jpg",
+    "static/media/cactus.jpg": "/apartmentwebsite/static/media/cactus.50e31658712069bfa6b9.jpg",
+    "static/media/steelcase.jpg": "/apartmentwebsite/static/media/steelcase.3833decc3ed613118049.jpg",
+    "static/media/inversiontable.jpg": "/apartmentwebsite/static/media/inversiontable.19b403d58a17007fb835.jpg",
+    "static/media/airpurifier.jpg": "/apartmentwebsite/static/media/airpurifier.6e8d4003e546e5c9f60b.jpg",
+    "static/media/standingdesk.jpg": "/apartmentwebsite/static/media/standingdesk.1c33a89a63bae3ef0e12.jpg",
+    "static/media/largetree.jpg": "/apartmentwebsite/static/media/largetree.12869cfea32543c07381.jpg",
+    "static/media/ultrawide.jpg": "/apartmentwebsite/static/media/ultrawide.01e7ddac19be703616df.jpg",
+    "static/media/smalltree.jpg": "/apartmentwebsite/static/media/smalltree.e4293a60f1b25fa129aa.jpg",
+    "static/media/gaming.jpg": "/apartmentwebsite/static/media/gaming.6e3219791b5dad24fe94.jpg",
+    "static/media/litter.jpg": "/apartmentwebsite/static/media/litter.c0b8230627f0d289d7e3.jpg",
+    "static/media/boxes.jpg": "/apartmentwebsite/static/media/boxes.fdc47c04ca599a5280f8.jpg",
+    "static/media/feeder.jpg": "/apartmentwebsite/static/media/feeder.7e6671856e09f1dd04c7.jpg",
+    "static/media/fountain.jpg": "/apartmentwebsite/static/media/fountain.989d8f7b85c6d9d8f277.jpg",
+    "static/media/smalltrash.jpg": "/apartmentwebsite/static/media/smalltrash.aec4ebd86790fc595f05.jpg",
+    "static/media/ricecooker.jpg": "/apartmentwebsite/static/media/ricecooker.8a9f6316adbfd95a4554.jpg",
+    "static/media/miele.jpg": "/apartmentwebsite/static/media/miele.7586552803e7ca4f26a0.jpg",
+    "static/media/largetrash.jpg": "/apartmentwebsite/static/media/largetrash.6581433ddce8ce581338.jpg",
+    "static/media/coattree.jpg": "/apartmentwebsite/static/media/coattree.5883cc155e64f21779c3.jpg",
+    "static/media/bed2.jpg": "/apartmentwebsite/static/media/bed2.80dff782665498726986.jpg",
+    "static/media/bookshelf.jpg": "/apartmentwebsite/static/media/bookshelf.7dd371e405ccd9fe19dc.jpg",
+    "static/media/dresser.jpg": "/apartmentwebsite/static/media/dresser.b5e2c9293b5bf1adae6c.jpg",
+    "static/media/bed1.jpg": "/apartmentwebsite/static/media/bed1.d92b7936129513337273.jpg",
     "index.html": "/apartmentwebsite/index.html",
     "main.6c761ebb.css.map": "/apartmentwebsite/static/css/main.6c761ebb.css.map",
-    "main.74f623f4.js.map": "/apartmentwebsite/static/js/main.74f623f4.js.map",
+    "main.871998b6.js.map": "/apartmentwebsite/static/js/main.871998b6.js.map",
     "787.908fed6a.chunk.js.map": "/apartmentwebsite/static/js/787.908fed6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c761ebb.css",
-    "static/js/main.74f623f4.js"
+    "static/js/main.871998b6.js"
   ]
 }
