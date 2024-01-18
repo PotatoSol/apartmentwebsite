@@ -1,4 +1,4 @@
-import {airpurifier, bed1, bed2, bookshelf, coattree, dresser} from './images/'
+import {airpurifier, bed1, bed2, bookshelf, coattree, dresser, feeder, fountain, gaming, inversiontable, largetrash, largetree, litter, miele, ricecooker, saddle, smalldesk, smalltrash, smalltree, standingdesk, steelcase, ultrawide, boxes, cactus} from './images/'
 import './App.css';
 
 /*
@@ -36,7 +36,7 @@ function App() {
             Steelcase Leap Office Chair - $300
           </a>
         </p>
-        <img className="Item-pic" src={bed1} alt="Chair"/>
+        <img className="Item-pic" src={steelcase} alt="Chair"/>
       </div>
       <div className="Items-container">
 
@@ -52,9 +52,9 @@ function App() {
             Saddle Chair - $100
           </a>
         </p>
-        <img className="Item-pic" src={bed1} alt="Saddle Chair" />
+        <img className="Item-pic" src={saddle} alt="Saddle Chair" />
 
-        <img className="Item-pic" src={bed1} alt="Standing Desk"/>
+        <img className="Item-pic" src={standingdesk} alt="Standing Desk"/>
         <p className="Item">
           <a href="https://www.amazon.com/gp/product/B08GF9K41Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1">
             Large Standing Computer Desk - $200
@@ -66,7 +66,7 @@ function App() {
             Small Computer Desk - $35
           </a>
         </p>
-        <img className="Item-pic" src={bed1} alt="Small Desk"/>
+        <img className="Item-pic" src={smalldesk} alt="Small Desk"/>
 
         <img className="Item-pic" src={airpurifier} alt="Air Purifier"/>
         <p className="Item">
@@ -80,7 +80,7 @@ function App() {
             Miele Vacuum Cleaner - $375
           </a>
         </p>
-        <img className="Item-pic" src={bed1} alt="Vacuum Cleaner"/>
+        <img className="Item-pic" src={miele} alt="Vacuum Cleaner"/>
 
         <img className="Item-pic" src={bookshelf} alt="Bookshelf"/>
         <p className="Item">
@@ -94,9 +94,9 @@ function App() {
             Inversion Table - $80
           </a>
         </p>
-        <img className="Item-pic" src={bed1} alt="Inversion Table"/>
+        <img className="Item-pic" src={inversiontable} alt="Inversion Table"/>
 
-        <img className="Item-pic" src={bed1} alt="Gaming Monitor"/>
+        <img className="Item-pic" src={gaming} alt="Gaming Monitor"/>
         <p className="Item">
           <a href="https://www.amazon.com/gp/product/B095X5T99T/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1">
             Gaming Monitor - $600
@@ -108,9 +108,9 @@ function App() {
             Ultrawide Monitor - $130
           </a>
         </p>
-        <img className="Item-pic" src={bed1} alt="Ultrawide Monitor"/>
+        <img className="Item-pic" src={ultrawide} alt="Ultrawide Monitor"/>
 
-        <img className="Item-pic" src={bed1} alt="Rice Cooker"/>
+        <img className="Item-pic" src={ricecooker} alt="Rice Cooker"/>
         <p className="Item">
           <a href="https://www.amazon.com/gp/product/B0074CDG6C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">
             Rice Cooker - $120
@@ -122,9 +122,9 @@ function App() {
             Large Kitchen Trash can - $45
           </a>
         </p>
-        <img className="Item-pic" src={bed1} alt="Large Trash Can"/>
+        <img className="Item-pic" src={largetrash} alt="Large Trash Can"/>
 
-        <img className="Item-pic" src={bed1} alt="Small Trash Can"/>
+        <img className="Item-pic" src={smalltrash} alt="Small Trash Can"/>
         <p className="Item">
           <a href="https://www.amazon.com/gp/product/B07PCXZ4CP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1">
             Small Trash Can - $20
@@ -138,7 +138,7 @@ function App() {
         </p>
         <img className="Item-pic" src={coattree} alt="Coat Tree"/>
 
-        <img className="Item-pic" src={bed1} alt="Automatic Litter Box"/>
+        <img className="Item-pic" src={litter} alt="Automatic Litter Box"/>
         <p className="Item">
           <a href="https://www.amazon.com/gp/product/B09KC7Q4YF/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">
             Automatic Cat Litter Box - $300
@@ -150,9 +150,9 @@ function App() {
             Automatic Cat Feeder - $50
           </a>
         </p>
-        <img className="Item-pic" src={bed1} alt="Automatic Cat Feeder"/>
+        <img className="Item-pic" src={feeder} alt="Automatic Cat Feeder"/>
 
-        <img className="Item-pic" src={bed1} alt="Automatic Cat Fountain"/>
+        <img className="Item-pic" src={fountain} alt="Automatic Cat Fountain"/>
         <p className="Item">
           <a href="https://www.amazon.com/gp/product/B08Y5LNF87/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">
             Automatic Cat Water Fountain - $15
@@ -164,9 +164,9 @@ function App() {
             Large Cat Tree - $30
           </a>
         </p>
-        <img className="Item-pic" src={bed1} alt="Large Cat Tree"/>
+        <img className="Item-pic" src={largetree} alt="Large Cat Tree"/>
 
-        <img className="Item-pic" src={bed1} alt="Medium Cat Tree"/>
+        <img className="Item-pic" src={smalltree} alt="Medium Cat Tree"/>
         <p className="Item">
           <a href="https://www.amazon.com/gp/product/B08F5BBZ2M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1">
             Medium Cat Tree - $15
@@ -178,9 +178,9 @@ function App() {
             2 Cat Boxes - $10 each or $15 for both
           </a>
         </p>
-        <img className="Item-pic" src={bed1} alt="Cat Boxes"/>
+        <img className="Item-pic" src={boxes} alt="Cat Boxes"/>
 
-        <img className="Item-pic" src={bed1} alt="Cat Cactus"/>
+        <img className="Item-pic" src={cactus} alt="Cat Cactus"/>
         <p className="Item">
           <a href="https://www.amazon.com/gp/product/B07WDDJNCR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1">
             Cat Cactus - $10
