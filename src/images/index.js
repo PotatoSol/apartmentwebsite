@@ -1,5 +1,13 @@
-import Desk from './test.png';
-import Chair from './chair.jpg';
+import airpurifier from './airpurifier.jpg';
+import bed1 from './bed1.jpg';
+import bed2 from './bed2.jpg';
+import bookshelf from './bookshelf.jpg';
+import coattree from './coattree.jpg';
+import dresser from './dresser.jpg';
 
 
-export {Desk, Chair};
+export {
+  airpurifier, 
+  bed1,
+
+};
