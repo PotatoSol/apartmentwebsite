@@ -16,7 +16,9 @@ function App() {
           <p className="Contact-info">
             Email: <a href="mailto:sol.mike.j@gmail.com">Sol.Mike.J@gmail.com</a> <br></br>
             Text: (443) 896 - 7051 <br></br>
-            Apt: 2009 <br />
+            Apt: 2009 <br /> < br/>
+
+            I'm selling a bunch of other small random stuff too, < br/> if you're curious come by to take a look or ask by text/email!
           </p>
         </header>
       </div>
