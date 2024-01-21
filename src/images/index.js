@@ -22,6 +22,12 @@ import steelcase from './steelcase.jpg';
 import ultrawide from './ultrawide.jpg';
 import boxes from './boxes.jpg';
 import cactus from './cactus.jpg';
+import pots from './pots.jpg';
+import bowls from './bowls.jpg';
+import breadmaker from './breadmaker.jpg';
+import hampers from './hampers.jpg';
+import fan from './fan.jpg';
+
 
 export {
   airpurifier, 
@@ -47,5 +53,10 @@ export {
   steelcase,
   ultrawide,
   boxes,
-  cactus
+  cactus,
+  pots,
+  bowls,
+  fan, 
+  breadmaker,
+  hampers
 };
