@@ -1,4 +1,4 @@
-import {airpurifier, bed1, hampers, bowls, fan, breadmaker, feeder, fountain, gaming, inversiontable, largetrash, largetree, litter, miele, ricecooker, saddle, smalldesk, smalltrash, smalltree, standingdesk, steelcase, ultrawide, boxes, cactus} from './images/'
+import {airpurifier, mattress, hampers, bowls, fan, breadmaker, feeder, fountain, gaming, inversiontable, largetrash, largetree, litter, miele, ricecooker, saddle, smalldesk, smalltrash, smalltree, standingdesk, steelcase, ultrawide, boxes, cactus} from './images/'
 import './App.css';
 
 /*
@@ -25,7 +25,7 @@ function App() {
 
 
       <div className="Items-container">
-        <img className="Item-pic" src={bed1} alt="Mattress"/>
+        <img className="Item-pic" src={mattress} alt="Mattress"/>
         <p className="Item">
           <a href="https://www.tempurpedic.com/shop-mattresses/adapt-collection/v/2602/">
             Tempurpedic Mattress + Bed Frame - $300

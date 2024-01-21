@@ -58,15 +58,16 @@
 }
 
 .Item{
-  margin-left: 5vw;
-  margin-right: 5vw;
+  margin-left: 2vw;
+  margin-right: 2vw;
   width: 35%;
   text-align: center;
 }
 
 .Item-pic{
-  object-fit: 50%;
-  width: 35%;
+  object-fit: 100%;
+  width: 300px;
+  max-width: 30%;
   margin-left: 5vw;
   margin-right: 5vw;
   justify-content: center;

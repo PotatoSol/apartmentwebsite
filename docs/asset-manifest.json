@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/apartmentwebsite/static/css/main.6c761ebb.css",
-    "main.js": "/apartmentwebsite/static/js/main.61fc619b.js",
+    "main.css": "/apartmentwebsite/static/css/main.fae66dd5.css",
+    "main.js": "/apartmentwebsite/static/js/main.624fa15d.js",
     "static/js/787.908fed6a.chunk.js": "/apartmentwebsite/static/js/787.908fed6a.chunk.js",
     "static/media/fan.jpg": "/apartmentwebsite/static/media/fan.c654a47b3ce364d88a23.jpg",
     "static/media/hampers.jpg": "/apartmentwebsite/static/media/hampers.31a2d81d8ed16c9ea2cd.jpg",
+    "static/media/mattress.jpg": "/apartmentwebsite/static/media/mattress.9e7350bc8ac3973eb9a3.jpg",
     "static/media/breadmaker.jpg": "/apartmentwebsite/static/media/breadmaker.c80dfa87fb722e0e7945.jpg",
     "static/media/pots.jpg": "/apartmentwebsite/static/media/pots.83203acda7351f6d2306.jpg",
     "static/media/bowls.jpg": "/apartmentwebsite/static/media/bowls.32725861f208cd47eaed.jpg",
@@ -33,12 +34,12 @@
     "static/media/bed2.jpg": "/apartmentwebsite/static/media/bed2.d5f536416c8daec28783.jpg",
     "static/media/bed1.jpg": "/apartmentwebsite/static/media/bed1.e12f0524e4aff211c4f0.jpg",
     "index.html": "/apartmentwebsite/index.html",
-    "main.6c761ebb.css.map": "/apartmentwebsite/static/css/main.6c761ebb.css.map",
-    "main.61fc619b.js.map": "/apartmentwebsite/static/js/main.61fc619b.js.map",
+    "main.fae66dd5.css.map": "/apartmentwebsite/static/css/main.fae66dd5.css.map",
+    "main.624fa15d.js.map": "/apartmentwebsite/static/js/main.624fa15d.js.map",
     "787.908fed6a.chunk.js.map": "/apartmentwebsite/static/js/787.908fed6a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c761ebb.css",
-    "static/js/main.61fc619b.js"
+    "static/css/main.fae66dd5.css",
+    "static/js/main.624fa15d.js"
   ]
 }

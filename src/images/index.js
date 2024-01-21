@@ -27,6 +27,7 @@ import bowls from './bowls.jpg';
 import breadmaker from './breadmaker.jpg';
 import hampers from './hampers.jpg';
 import fan from './fan.jpg';
+import mattress from './mattress.jpg';
 
 
 export {
@@ -58,5 +59,6 @@ export {
   bowls,
   fan, 
   breadmaker,
-  hampers
+  hampers,
+  mattress
 };
