@@ -67,6 +67,7 @@
 .Item-pic{
   object-fit: 100%;
   width: 300px;
+  min-width: 26%;
   max-width: 30%;
   margin-left: 5vw;
   margin-right: 5vw;
